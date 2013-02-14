@@ -1,0 +1,146 @@
+
+body {
+	font-family: 'helvetica neue', helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	background: url(../images/bg_body.jpg);
+	background-repeat: repeat;
+	
+}
+
+#wrapper {
+	background: url(../images/bg_wrapper.png);
+	background-repeat: repeat-x;
+}
+
+/*#main {
+	background: url(../images/bg_body.jpg) repeat-y;
+	margin: 0 auto;
+	width: 725px;
+	background-color: #fff;
+	border: solid #e6e6e6 1px;
+}
+
+#header {
+  background: #f4f4eb;
+  height: 35px;
+  padding: 1px 20px 30px;
+  margin: 0px 0px 25px 0px;
+  border-bottom: solid #e6e6e6 1px;
+}
+
+h1 {
+	font-size: 26px;
+	letter-spacing: -1px;
+}
+
+h1 img {vertical-align: middle;}
+
+h1 img {padding-right: 15px;}
+
+
+a:link {color:#fc3f49;}
+a:link {text-decoration: none;}
+
+#headerlinks {
+	float: right;
+	font-size: 12px;
+	font-family: 'palatino', georgia, serif;
+	margin: 10px 90px 0px 0px;
+	word-spacing: 15px;
+	white-space: nowrap;
+  	overflow: hidden;
+}
+
+#graphic {
+	text-align: center;
+}
+
+#graphic img {height: 240px;}
+
+h2 {
+	letter-spacing: 1px;
+}
+
+.blogpost {
+	padding: 50px 20px 0px;
+}
+
+h3 {
+	font-style: bold;
+}
+
+p {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+}
+
+ul {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 13px;
+}
+
+li { 
+	list-style:circle; 
+}
+
+#post1 img {
+	height: 165px;
+}
+
+.pictitle p {
+	font-size: 10px;
+}
+
+.date {
+	border: dashed #c4c4c4 1px;
+	-moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -khtml-border-radius: 15px;
+    border-radius: 15px;
+    padding: 5px 10px;
+    width: 60px;
+    font-size: 10px;
+    float: left;
+}
+
+.divider {
+	height: 15px;
+	text-align: center;
+	padding: 20px 0px 30px 0px;
+}
+
+.comments {
+	font-size: 10px;
+	padding-top: 6px;
+	padding-left: 50px;
+}
+
+#quote p{
+	font-size: 18px;
+	text-align: center;
+	padding: 0px 140px 0px;
+}
+
+#anon {
+	text-align: right;
+	padding-right: 100px;
+}
+
+#post3 img {
+	width: 250px;
+}
+
+.center {
+	text-align: center;
+}
+
+
+#footer {
+  background: #f4f4eb;
+  border-bottom: solid #e6e6e6 1px;
+  border-top: solid #e6e6e6 1px;
+  height: 30px;
+  padding: 0px 20px 10px;
+  vertical-align: middle;
+}*/
